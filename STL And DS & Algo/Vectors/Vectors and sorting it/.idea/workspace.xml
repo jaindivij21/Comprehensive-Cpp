@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Vectors_and_sorting_it" targetName="Vectors_and_sorting_it" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eca3a28f-da7a-456b-bf82-cc7d5fdc1e34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/C++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/cmake-build-debug/CMakeFiles/Practice.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/.idea/Classes and Objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Classes_and_Objects.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/Classes_and_Objects.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/Compute Factorial Using Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Compute_Factorial_Using_Recursion.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/Compute_Factorial_Using_Recursion.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial Using Recursion/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/.idea/Compute Factorial using Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Compute Factorial using Loops/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/Demonstrate use of pointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Demonstrate_use_of_pointers.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/Demonstrate_use_of_pointers.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonstrate use of pointers/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/HourGlass Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HourGlass Program/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linked List/.idea/Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Make a 2D array using double pointers/.idea/Make a 2D array using double pointers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Print Array Using A Function/.idea/Print Array Using A Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Print Array Using A Function/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Print Array Using A Function/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Print Array Using A Function/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Print Array Using A Function/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/Program to count  maximum no of consecutive 1's.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/Program_to_count__maximum_no_of_consecutive_1_s.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/Program_to_count__maximum_no_of_consecutive_1_s.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to count  maximum no of consecutive 1's/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/Program to print multiplication table of a number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/Program_to_print_multiplication_table_of_a_number.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/Program_to_print_multiplication_table_of_a_number.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/Program_to_print_multiplication_table_of_a_number.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Program to print multiplication table of a number/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String Stream Program to separate integers from a string/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String Stream Program to separate integers from a string/.idea/String Stream Program to separate integers from a string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/.idea/Swap two numbers using function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_function.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/Swap_two_numbers_using_function.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using function/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/Swap two numbers using poniters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/Swap_two_numbers_using_poniters.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/Swap_two_numbers_using_poniters.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swap two numbers using poniters/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Vectors_and_sorting_it.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Vectors_and_sorting_it.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/dynamic memory array allocation (important).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/dynamic_memory_array_allocation__important_.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/cmake-build-debug/dynamic_memory_array_allocation__important_.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dynamic memory array allocation (important)/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/CS50/Caesar Cryptic/.idea/Caesar Cryptic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/CS50/Readability/.idea/Readability.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/CS50/Week1-Credit Problem/.idea/Week1-Credit Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/.idea/Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Addition of two numbers/.idea/Addition of two numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Division/.idea/Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../C/Programs/Practice/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/AVL Trees/.idea/AVL Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Array and Pointers/Arrays/.idea/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/10a/.idea/10a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/10b/.idea/10b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/11/.idea/11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/1a/.idea/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/1b/.idea/2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/3a/.idea/3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Assignment 2/3b/.idea/3b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Mini Project/.idea/Mini Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Special Assignmet 2/Aditya Chandla try/.idea/Aditya Chandla try.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Assignments/Special Assignmet 2/My try/.idea/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Heap Sorting/.idea/Heap Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Circular List/.idea/Circular List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Creation of Singly Linked List/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Creation of Singly Linked List/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Deletion in Linked List/.idea/Deletion in Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Deletion in Linked List/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Insertion In linked list/.idea/Insertion In linked list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Insertion In linked list/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Linked List/Printing a linked list/.idea/Printing a linked list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Queue/.idea/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Queue/Basic Using Array/.idea/Basic Using Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Queue/Basic Using Linked List/.idea/Basic Using Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Queue/Circular queue/.idea/Circular queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Queue/Priority queue/.idea/Priority queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/.idea/Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Infix To Postfix Correct/.idea/Infix To Postfix 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Infix To Postfix/.idea/Infix To Postfix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Infix To Prefix/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Infix To Prefix/.idea/Infix To Prefix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Parenthesis Check/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Parenthesis Check/.idea/Parenthesis Check.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Applications/Postfix Evalutation/.idea/Postfix Evalutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array (Global)/.idea/Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/Stack Using Array(Local).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Array(Local)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Stacks/Stack Using Linked List/.idea/Satck Using Linked List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/.idea/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Search Tree/.idea/Binary Search Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Tree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Tree/.idea/Binary Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Data Structures/Tree/Binary Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Bank Account/Bank Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Bank Account/src/com/company/BankAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Billing/Billing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Bubble Sort In Array/Bubble Sort In Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Multithreading/Multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Practice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/A_Photographer.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Apres_la_Pluie.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Caterpillar.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Colors_of_Autumn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Countryside.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Death_Valley_-_Dunes.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Despair.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Eagle_Fall_Sunrise.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Green_Grass.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Hanging_Leaf.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Jelly_Fish_3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Kauai.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Longue_Vue.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Lost_in_a_Field.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Monument_Valley_Overlook.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/One_Wheel.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Open_Sky.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Orange_Sunset.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Stream.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/sampleData/backgrounds/scenic/Yosemite_Tree.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/BasicActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/BasicActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/FirstFragment.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/FirstFragment.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/SecondFragment.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/BasicActivity/root/src/app_package/SecondFragment.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/EmptyActivity/root/src/app_package/EmptyActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/EmptyActivity/root/src/app_package/EmptyActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/EmptyActivity/root/src/app_package/EmptyActivityWithCppSupport.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/EmptyActivity/root/src/app_package/EmptyActivityWithCppSupport.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/EmptyActivity/root/src/app_package/native-lib.cpp.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/LoginDataSource.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/LoginDataSource.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/LoginRepository.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/LoginRepository.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/Result.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/Result.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/model/LoggedInUser.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/data/model/LoggedInUser.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoggedInUserView.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoggedInUserView.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginFormState.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginFormState.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginResult.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginResult.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginViewModel.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginViewModel.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginViewModelFactory.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/LoginActivity/root/src/app_package/ui/login/LoginViewModelFactory.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/drawable/messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/drawable/sync.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/values/arrays.xml.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/values/strings.xml.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/xml/header_preferences.xml.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/xml/messages_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/xml/root_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/res/xml/sync_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/src/app_package/MultipleScreenSettingsActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/src/app_package/MultipleScreenSettingsActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/src/app_package/SingleScreenSettingsActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/SettingsActivity/root/src/app_package/SingleScreenSettingsActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/TabsActivity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/TabsActivity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/PageViewModel.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/PageViewModel.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/PlaceholderFragment.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/PlaceholderFragment.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/SectionsPagerAdapter.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/android/lib/templates/activities/TabbedActivity/root/src/app_package/ui/main/SectionsPagerAdapter.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Softwares/NetBeans/Java/ideaIU-2019.2.win/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1b2TUANiRR0XlTqNOzbzGLKTGY8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Vectors_and_sorting_it" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Vectors_and_sorting_it" TARGET_NAME="Vectors_and_sorting_it" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Vectors_and_sorting_it" RUN_TARGET_NAME="Vectors_and_sorting_it">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca3a28f-da7a-456b-bf82-cc7d5fdc1e34" name="Default Changelist" comment="" />
+      <created>1587829201115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587829201115</updated>
+      <workItem from="1587829203241" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
